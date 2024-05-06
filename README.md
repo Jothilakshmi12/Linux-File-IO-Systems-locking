@@ -86,10 +86,11 @@ return 0;
 
 
 ## OUTPUT
+## c program that illustrates files copying
 ![out4](https://github.com/priyadharshini225/Linux-File-IO-Systems-locking/assets/138849213/e61bd543-e84f-4a37-8a26-f0162fa0e602)
 
-
-
+## c program that illustrates files locking
+![out4](https://github.com/priyadharshini225/Linux-File-IO-Systems-locking/assets/138849213/e61bd543-e84f-4a37-8a26-f0162fa0e602)
 
 
 # RESULT:
