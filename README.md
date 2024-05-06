@@ -86,6 +86,7 @@ return 0;
 
 
 ## OUTPUT
+![out4](https://github.com/priyadharshini225/Linux-File-IO-Systems-locking/assets/138849213/e61bd543-e84f-4a37-8a26-f0162fa0e602)
 
 
 
